@@ -1,0 +1,7 @@
+469 -4.46 a324   	45  3   -56
+
+23.5
+some letters to make sure it ignores them
+			654.324
+435 435 54 2 67 -9.5
+5.23 564
